@@ -39,7 +39,7 @@ print(x+y)
 type(x+y)
 
 
-#EXPLICIT CONVERSION
+#EXPLICIT CONVERSION  (user must use any fun() like int(),float()...etc; to covert one data type to another data type)
 num = 165
 num2 = 175.75
 result = int(num2)
