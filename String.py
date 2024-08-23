@@ -20,3 +20,6 @@ print(str[-1])
 str = "python"
 str[4]="l"
 print(str)
+
+str1 = "python"
+print(str1)
